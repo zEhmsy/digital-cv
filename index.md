@@ -22,7 +22,7 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 
 ## 💻 Knowledge
 
-* *🤖 Comau intership experence | USE AND PROGRAMMING* @ [COMAU](https://www.comau.com/it/) _(Feb 2020 - Feb 2021)_ <br>
+* *🤖 Comau intership experence | USE AND PROGRAMMING* @ [COMAU](https://www.comau.com/it/) _(Nov 2020 - Feb 2021)_ <br>
   - Course focus on use and programming of 6-axis robotics arm, for the C5G family of robots.
   - Final exams with an individual and group collaboration test;
   - knowledge of robotics systems and proprity programming language;
