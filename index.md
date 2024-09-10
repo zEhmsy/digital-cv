@@ -6,9 +6,10 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 *R&D | IT Manager* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
-  - management of security systems from an IT point of view;
+  - management of company security systems from an IT point of view;
   - industrial plant programming with Niagara software;
-  - **_Technologies used:_** Wireshark, Niagara, Microsoft admin panel.
+  - design and development of the company website
+  - **_Technologies used:_** Wireshark (and other blue team software), Niagara, Microsoft admin panel, Wix.
 <br><br>
 
 *Gradueting in Computer Science Engineer* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - 2024)_ <br>
