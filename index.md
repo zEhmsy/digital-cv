@@ -5,17 +5,22 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 [Email](info.g.turturro@gmail.com) / [LinkedIn](www.linkedin.com/in/g-turturro/) / [GitHub](https://github.com/zEhmsy/)
 ## 👩🏼‍💻 Engineering Experience
 
-*Gradueting in Computer Science Engineer* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - Present)_ <br>
+*R&D | IT Manager* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
+  - management of security systems from an IT point of view;
+  - industrial plant programming with Niagara software;
+  - **_Technologies used:_** Wireshark, Niagara, Microsoft admin panel.
+<br><br>
+
+*Gradueting in Computer Science Engineer* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - 2024)_ <br>
   - Bachelor of Science in INGEGNERIA INFORMATICA E DELL'AUTOMAZIONE (D.M.270/04)
   - the typical aspects of Automation, related to the modeling and control of systems, with particular reference to the analysis and synthesis of feedback control systems;
   - the typical knowledge of Telecommunications with particular reference to the techniques of analysis, processing, modulation and transmission of information, to the communication networks and to the application software that these networks use as a transmission substrate;
   - knowledge of the fundamental aspects of electronics, both analogue and digital, of the electronic processing of information, as well as the basic skills relating to the design of digital circuits.
 <br><br>
 
-*Software Engineer | IT Consultant* @ [Sitec snc](https://sitecfiresecurity.it/) _(Aug 2022 - Present)_ <br>
+*Software Engineer | IT Consultant* @ [Sitec snc](https://sitecfiresecurity.it/) _(Aug 2022 - Aug 2024)_ <br>
   - Created an application with [Google Appsheet](https://about.appsheet.com/home/) for the digital management of the company;
   - Database management based on the Google suite, and integration between them via SQL;
-  - knowledge of security systems from an IT point of view;
   - knowledge of video surveillance systems, with specialization course in [Milestone Systeme](https://www.milestonesys.com/);
   - **_Technologies used:_** AppSheet, Google Suite, SQL.
 <br><br>
