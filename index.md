@@ -12,7 +12,7 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
   - **_Technologies used:_** Wireshark (and other blue team software), Niagara, Microsoft admin panel, Wix.
 <br><br>
 
-*Gradueting in Computer Science Engineer* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - 2024)_ <br>
+*Gradueted in Computer Science Engineer* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - 2024)_ <br>
   - Bachelor of Science in INGEGNERIA INFORMATICA E DELL'AUTOMAZIONE (D.M.270/04)
   - the typical aspects of Automation, related to the modeling and control of systems, with particular reference to the analysis and synthesis of feedback control systems;
   - the typical knowledge of Telecommunications with particular reference to the techniques of analysis, processing, modulation and transmission of information, to the communication networks and to the application software that these networks use as a transmission substrate;
