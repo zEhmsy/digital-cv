@@ -8,7 +8,8 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 *R&D | IT Manager* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
   - management of company security systems from an IT point of view;
   - industrial plant programming with Niagara software;
-  - design and development of the company website
+  - design and development of the [company website](https://sitecfiresecurity.it)
+  - Learning and implementing **AI** Network _self hosted_ 
   - **_Technologies used:_** Wireshark (and other blue team software), Niagara, Microsoft admin panel, Wix.
 <br><br>
 
