@@ -6,14 +6,19 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 *R&D | IT Manager* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
-  - management of company security systems from an IT point of view;
-  - industrial plant programming with Niagara software;
-  - design and development of the [company website](https://sitecfiresecurity.it)
-  - Learning and implementing **AI** Network _self hosted_ 
+  - Experience in data center/rack structural redevelopment, Fortigate firewall configuration, and network documentation (physical and logical mapping);
+  - industrial plant programming with Niagara software and personal Certification;
+  - design and development of the [company website](https://sitecfiresecurity.it);
+  - Learning and implementing **AI** Network _self hosted_ ;
   - **_Technologies used:_** Wireshark (and other blue team software), Niagara, Microsoft admin panel, Wix.
 <br><br>
 
-*Gradueted in Computer Science Engineer* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - 2024)_ <br>
+*Master's Degree in Computer Science and Automation Engineering* @ [Ecampus](https://www.uniecampus.it/) _(Sep 2024 - Present)_ <br>
+  - in progress;
+  - CYBERSECURITY's path.
+<br><br>
+
+*Gradueted in Computer Science Engineer and Automation Engineering* @ [Politecnico di Bari](poliba.it) _(Sep 2021 - 2024)_ <br>
   - Bachelor of Science in INGEGNERIA INFORMATICA E DELL'AUTOMAZIONE (D.M.270/04)
   - the typical aspects of Automation, related to the modeling and control of systems, with particular reference to the analysis and synthesis of feedback control systems;
   - the typical knowledge of Telecommunications with particular reference to the techniques of analysis, processing, modulation and transmission of information, to the communication networks and to the application software that these networks use as a transmission substrate;
@@ -49,7 +54,7 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 
 ## 💬 Languages
 
-🇺🇸 **English**: B1 <br>
+🇺🇸 **English**: B2 <br>
 🇮🇹 **Italian**: Native
 <br><br>
 
