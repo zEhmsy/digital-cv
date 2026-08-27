@@ -1,16 +1,20 @@
 # Turturro Giuseppe
 
-_Computer Science engineer based in Italy 🇮🇹_ <br>
+_Network & Security Systems Engineer based in Italy 🇮🇹_ <br>
 
-[Email](info.g.turturro@gmail.com) / [LinkedIn](www.linkedin.com/in/g-turturro/) / [GitHub](https://github.com/zEhmsy/)
+[Email](info.g.turturro@gmail.com) / [Phone](+39 366 167 1212) / [LinkedIn](www.linkedin.com/in/g-turturro/) / [GitHub](https://github.com/zEhmsy/)
 ## 👩🏼‍💻 Engineering Experience
 
-*R&D | IT Manager* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
-  - Experience in data center/rack structural redevelopment, Fortigate firewall configuration, and network documentation (physical and logical mapping);
-  - industrial plant programming with Niagara software and personal Certification;
+*Network & Security Systems Engineer* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
+  - Configuration and management of Fortigate firewalls (NGFW), definition and maintenance of network security policies;
+  - Network infrastructure design and documentation: physical and logical mapping, VLAN segmentation, data center/rack structural redesign;
+  - Network traffic analysis and blue team security monitoring with Wireshark and other tools;
+  - Development of internal automation tools to support IT and network operations, reducing manual errors and standardizing processes;
+  - Administration of Windows Server systems and Microsoft 365 Admin Center;
+  - Virtualization and infrastructure management with Proxmox and Kubernetes;
+  - Drafting of a business plan on the Niagara platform for building automation solutions (cross-functional project), with personal Certification;
   - design and development of the [company website](https://sitecfiresecurity.it);
-  - Learning and implementing **AI** Network _self hosted_ ;
-  - **_Technologies used:_** Wireshark (and other blue team software), Niagara, Microsoft admin panel, Wix.
+  - **_Technologies used:_** Fortigate NGFW, Wireshark (and other blue team software), Niagara, Windows Server, Microsoft 365 Admin Center, Proxmox, Kubernetes.
 <br><br>
 
 *Master's Degree in Computer Science and Automation Engineering* @ [Ecampus](https://www.uniecampus.it/) _(Sep 2024 - Present)_ <br>
@@ -26,10 +30,11 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 <br><br>
 
 *Software Engineer | IT Consultant* @ [Sitec snc](https://sitecfiresecurity.it/) _(Aug 2022 - Aug 2024)_ <br>
-  - Created an application with [Google Appsheet](https://about.appsheet.com/home/) for the digital management of the company;
-  - Database management based on the Google suite, and integration between them via SQL;
-  - knowledge of video surveillance systems, with specialization course in [Milestone Systeme](https://www.milestonesys.com/);
-  - **_Technologies used:_** AppSheet, Google Suite, SQL.
+  - Management and configuration of IP video surveillance systems and VMS platforms, with certified specialization in [Milestone Systems](https://www.milestonesys.com/);
+  - Field experience integrating IP cameras on the network, including bandwidth management and VMS system connectivity;
+  - Created an application with [Google Appsheet](https://about.appsheet.com/home/) for the digital management of the company, with SQL database integration;
+  - Database and data flow management via Google Suite;
+  - **_Technologies used:_** AppSheet, Google Suite, SQL, Milestone VMS.
 <br><br>
 
 ## 💻 Knowledge
@@ -52,6 +57,11 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
   - Basic it security skills
 <br><br>
 
+* *Other Certifications* <br>
+  - Niagara Certification
+  - Milestone Design and Integration Engineer
+<br><br>
+
 ## 💬 Languages
 
 🇺🇸 **English**: B2 <br>
@@ -64,9 +74,9 @@ _Computer Science engineer based in Italy 🇮🇹_ <br>
 [I.I.S.S. GALIELEO FERRARIS](https://www.ferrarismolfetta.edu.it/la-scuola/presentazione/) - Molfetta, Bari, ITALY _(2016 - 2021)_
 
 ## 👨🏻‍💻 Coding skills:
-  - ⭐⭐⭐⭐⬛ Python
+  - ⭐⭐⭐⬛⬛ Python
   - ⭐⭐⭐⭐⬛ C/C++
   - ⭐⭐⭐⬛⬛ Java
   - ⭐⬛⬛⬛⬛ Assembler
   - ⭐⭐⭐⭐⭐ HTML/CSS/JS
-  - ⭐⭐⭐⬛⬛ Linux
+  - ⭐⭐⭐⭐⭐ Linux
