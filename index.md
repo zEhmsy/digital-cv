@@ -1,15 +1,8 @@
-<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;" markdown="1">
-<img src="images/giuseppe.png" alt="Giuseppe Turturro" width="150" style="border-radius:8px;" />
-<div markdown="1">
-
 # Turturro Giuseppe
 
 _Network & Security Systems Engineer based in Italy 🇮🇹_ <br>
 
 [Email](info.g.turturro@gmail.com) / [Phone](+39 366 167 1212) / [LinkedIn](www.linkedin.com/in/g-turturro/) / [GitHub](https://github.com/zEhmsy/)
-
-</div>
-</div>
 
 ## 👩🏼‍💻 Engineering Experience
 
