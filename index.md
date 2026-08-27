@@ -1,8 +1,13 @@
+<img src="images/giuseppe.png" alt="Giuseppe Turturro" width="180" align="left" style="border-radius:8px; margin-right:20px;" />
+
 # Turturro Giuseppe
 
 _Network & Security Systems Engineer based in Italy 🇮🇹_ <br>
 
 [Email](info.g.turturro@gmail.com) / [Phone](+39 366 167 1212) / [LinkedIn](www.linkedin.com/in/g-turturro/) / [GitHub](https://github.com/zEhmsy/)
+
+<br clear="left">
+
 ## 👩🏼‍💻 Engineering Experience
 
 *Network & Security Systems Engineer* @ [Sitec snc](https://sitecfiresecurity.it/) _(Sep 2024 - Present)_ <br>
